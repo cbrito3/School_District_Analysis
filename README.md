@@ -1,7 +1,10 @@
 # School_District_Analysis
-Purpose of Analysis
+
+****##Purpose of Analysis**
 
 Maria has asked for help to compute some analysis on the school district that she works in. After compiling all of the relative data relating the both the schools as well as the students, Maria wanted me to look at how replacing the 9th graders scores at Thomas High School would effect the different analyses that we have to perform. I used pandas to use the original analysis as well as to create a new one.  
+
+
 Results
 
 Questions
